@@ -26,18 +26,3 @@ For instruction type 1, the input takes three numbers 1 a x in a line with aa an
 
 For instruction type 2, the input takes three numbers 2 a y in a line with aa and yy representing the type of merchandise and the index you are asked to check.
 
-Constraints:
-
-1 \le N \le 10^51≤N≤10 
-5
- 
-1 \le Q \le 10^61≤Q≤10 
-6
- 
-\text{Instruction type} \in \{1,2\}Instruction type∈{1,2}
-0\le a \lt N0≤a<N
-0\le x \lt 2^{31}0≤x<2 
-31
- 
-0\le y \lt 10^50≤y<10 
-5
